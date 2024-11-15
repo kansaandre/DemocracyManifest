@@ -8,4 +8,4 @@ https://discord.gg/Fd3Pt2YZvY
 
 Finanical support to pay for services and reach - https://buymeacoffee.com/democracymanifest:
 
-<a href="https://www.buymeacoffee.com/DemocracyManifest" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/DemocracyManifest" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Us a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
