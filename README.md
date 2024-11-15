@@ -6,5 +6,6 @@ Updates will be posted at: https://x.com/KansaAndre
 Join our discord and become a senator to this project! 
 https://discord.gg/Fd3Pt2YZvY
 
-Finanical support to pay for services and reach - https://buymeacoffee.com/democracymanifest
+Finanical support to pay for services and reach - https://buymeacoffee.com/democracymanifest:
+
 <a href="https://www.buymeacoffee.com/DemocracyManifest" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
