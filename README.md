@@ -6,4 +6,4 @@ Updates will be posted at: https://x.com/KansaAndre
 Join our discord and become a senator to this project! 
 https://discord.gg/Fd3Pt2YZvY
 
-Finanical support to pay for services and reach - buymeacoffee.com/democracymanifest
+Finanical support to pay for services and reach - https://buymeacoffee.com/democracymanifest
