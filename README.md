@@ -3,5 +3,5 @@ Direct Democracy Solution: Built by the people, for the people. It works within 
 
 Updates will be posted at: https://x.com/KansaAndre
 
-Join our discord! 
+Join our discord and become a senator to this project! 
 https://discord.gg/Fd3Pt2YZvY
