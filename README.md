@@ -6,11 +6,6 @@ When representative democracy was established, physical, slow communication made
 Join our discord and become a senator to this project! 
 https://discord.gg/Fd3Pt2YZvY
 
-Finanical support to pay for services and reach - https://buymeacoffee.com/democracymanifest:
-
-<a href="https://www.buymeacoffee.com/DemocracyManifest" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Us A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-
 Updates will be posted at: https://x.com/KansaAndre
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Starting today, a new, old idea that by this point and the current state of the internet already should have been implemented: Direct Democracy with integration into the Representative Framework.<br><br>Launching project &quot;DemocracyManifest&quot; on GitHub:<br>&quot;Built by the people, for the…</p>&mdash; kanikola (@KansaAndre) <a href="https://twitter.com/KansaAndre/status/1857214381517373832?ref_src=twsrc%5Etfw">November 15, 2024</a></blockquote>
