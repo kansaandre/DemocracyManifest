@@ -11,7 +11,8 @@ Updates will be posted at: https://x.com/KansaAndre
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Starting today, a new, old idea that by this point and the current state of the internet already should have been implemented: Direct Democracy with integration into the Representative Framework.<br><br>Launching project &quot;DemocracyManifest&quot; on GitHub:<br>&quot;Built by the people, for the…</p>&mdash; kanikola (@KansaAndre) <a href="https://twitter.com/KansaAndre/status/1857214381517373832?ref_src=twsrc%5Etfw">November 15, 2024</a></blockquote>
 
 Q: Why is the name DemocracyManifest? <br>
-A: Just a placeholder for the project - named after our mascot https://en.wikipedia.org/wiki/Democracy_Manifest
+A: Just a placeholder for the project - named after our mascot https://en.wikipedia.org/wiki/Democracy_Manifest<br>
+Karlson later explained the meaning of Democracy Manifest as judgement by the people
 
 --------
 
