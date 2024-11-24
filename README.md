@@ -12,3 +12,7 @@ Updates will be posted at: https://x.com/KansaAndre
 
 Q: Why is the name DemocracyManifest? <br>
 A: Just a placeholder for the project - named after our mascot https://en.wikipedia.org/wiki/Democracy_Manifest
+
+--------
+
+We want this project to serve as a template for direct democracy parties around the world - both in guidelines, software implementation and ++.
