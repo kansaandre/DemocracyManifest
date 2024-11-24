@@ -12,7 +12,7 @@ Updates will be posted at: https://x.com/KansaAndre
 
 Q: Why is the name DemocracyManifest? <br>
 A: Just a placeholder for the project - named after our mascot https://en.wikipedia.org/wiki/Democracy_Manifest<br>
-Karlson later explained the meaning of Democracy Manifest as judgement by the people
+"..Karlson later explained the meaning of Democracy Manifest as judgement by the people"
 
 --------
 
