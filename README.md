@@ -16,4 +16,4 @@ A: Just a placeholder for the project - named after our mascot https://en.wikipe
 
 --------
 
-We want this project to serve as a template for direct democracy parties around the world - both in guidelines, software implementation and ++.
+We aim for this project to serve as a comprehensive template for direct democracy parties at all levels of governance—municipal, regional, national, and multilateral. This includes providing detailed guidelines, robust software implementations, and additional tools to facilitate and promote direct democratic practices globally.
