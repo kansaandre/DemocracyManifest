@@ -7,7 +7,7 @@ Join our discord and become a senator to this project!
 https://discord.gg/Fd3Pt2YZvY
 
 Q: Why is the name DemocracyManifest? <br>
-A: Just a placeholder for the project - named after our mascot https://en.wikipedia.org/wiki/Democracy_Manifest<br>
+A: Named after our mascot https://en.wikipedia.org/wiki/Democracy_Manifest<br>
 "..Karlson later explained the meaning of Democracy Manifest as judgement by the people"
 
 --------
