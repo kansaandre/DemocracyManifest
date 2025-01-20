@@ -10,6 +10,6 @@ Q: Why is the name DemocracyManifest? <br>
 A: Named after our mascot https://en.wikipedia.org/wiki/Democracy_Manifest<br>
 "..Karlson later explained the meaning of Democracy Manifest as judgement by the people"
 
---------
+-------
 
 We aim for this project to serve as a comprehensive template for direct democracy parties at all levels of governance—municipal, regional, national, and multilateral. This includes providing detailed guidelines, robust software implementations, and additional tools to facilitate and promote direct democratic practices globally.
